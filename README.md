@@ -1,5 +1,6 @@
 # TicTacToewithAI-hyperskill.org-
 Project from https://hyperskill.org/projects/82 by JetBrains Academy
+Main file - tictactoe.py. tictactoeclass is just the class for the game in general.
 There are several levels of the game:
 user vs user and different types of "battles" with the AI: easy, medium, hard.
 To start the game you shoud enter following commands:
