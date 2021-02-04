@@ -4,16 +4,16 @@ There are several levels of the game:
 user vs user and different types of "battles" with the AI: easy, medium, hard.
 To start the game you shoud enter following commands:
 1. user vs user:
-    start user user
+    a) start user user
 2. Easy AI:
-    start easy user
-    start user easy
-    start easy easy
+    a) start easy user
+    b) start user easy
+    c) start easy easy
 3. Medium AI
-    start medium user
-    start user medium
-    start medium medium
+    a) start medium user
+    b) start user medium
+    c) start medium medium
 4. Hard AI
-    start hard user
-    start user hard
-    start hard hard
+    a) start hard user
+    b) start user hard
+    c) start hard hard
